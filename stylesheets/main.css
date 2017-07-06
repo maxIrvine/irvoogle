@@ -1,16 +1,20 @@
+.logo {
+    font-family: Futura, Arial, Helvetica, sans-serif;
+}
+
 .color-blue {
-    color: #4885ed
+    color: #4885ed;
 }
 
 .color-red {
-    color: #db3236
+    color: #db3236;
 }
 
 .color-yellow {
-    color: #f4c20d
+    color: #f4c20d;
 }
 
 .color-green {
-    color: #3cba54
+    color: #3cba54;
 }
 
