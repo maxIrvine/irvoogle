@@ -1,9 +1,8 @@
 .logo {
     font-family: Futura, Arial, Helvetica, sans-serif;
     letter-spacing: -7px;
-    font-size: 60px;
+    font-size: 80px;
     margin: 200px auto 0px auto;
-    border: 1px solid black;
     text-align: center;
 }
 
@@ -24,12 +23,22 @@
 }
 
 .search-area {
-    border: 1px solid black;
     text-align: center;
     margin: 30px auto 0px auto;
 }
 
 .search-field {
-    box-shadow: 0px 1px 1px slategrey
+    box-shadow: 0px 1px 1px slategrey;
+    height: 22px;
+    width: 484px;
+}
+
+.buttons {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.button {
+    background-color: #f2f2f2;
 }
 
